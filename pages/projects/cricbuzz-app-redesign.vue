@@ -63,8 +63,8 @@
     <!-- Preface -->
     <pcase
       heading="Preface"
-      para=" Cricbuzz app is used by millions of user. To redesign something that that
-      is already have a existing user base is itself is a challenge. I started with
+      para=" Cricbuzz app is used by millions of user. To redesign something that
+      is already have a existing user base is itself a challenge. I started with
       installing the app from play store and then carefully following each navigation. 
       I personally used this app previously some years ago not now.
       So much has already been changed and improved from then.
